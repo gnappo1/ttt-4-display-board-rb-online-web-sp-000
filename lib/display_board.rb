@@ -2,5 +2,6 @@
 # out the current state.
 require 'pry'
 def display_board(board)
+  puts 'Hi'
   binding.pry
 end
